@@ -41,3 +41,26 @@ CI/CD Pipeline Integration:
 Gain insights into setting up automated development pipelines, boosting efficiency and minimizing errors during the deployment phase.
 
 This structured approach ensures learners not only build technical skills but also adopt a mindset geared toward problem-solving, scalability, and industry-grade project execution.
+
+## Team Roles
+
+### Backend Developer
+Responsible for building and maintaining the server-side logic, APIs, and integration with the database. Ensures application functionality and performance.
+
+### Database Administrator (DBA)
+Designs, manages, and maintains the database. Optimizes queries, ensures data integrity, and manages backups and security.
+
+### Frontend Developer
+Implements the user interface, ensuring it is responsive, interactive, and aligns with the user experience goals.
+
+### DevOps Engineer
+Manages the CI/CD pipelines, deployment processes, server infrastructure, and ensures smooth integration between development and production environments.
+
+### Security Specialist
+Implements security measures across the application, monitors vulnerabilities, and ensures secure data handling.
+
+### Project Manager / Team Lead
+Coordinates the project workflow, assigns tasks, ensures deadlines are met, and maintains communication between team members.
+
+### QA / Tester
+Tests the application for bugs, performance issues, and ensures it meets quality standards before release.
